@@ -1,5 +1,7 @@
 # Online Ordering Platform
 
+[Live Demo](https://petitmagasin-demo.vercel.app/)
+
 ## Project Overview
 
 This project is a full-stack online ordering platform designed for small online food businesses. It helps merchants showcase products in a structured and user-friendly way, while making it easier for customers to browse, select products, and place orders.
