@@ -1,6 +1,9 @@
 # Online Ordering Platform
 
-[Live Demo](https://petitmagasin-demo.vercel.app/)
+## Demo
+
+- [Click for Live Demo](https://petitmagasin-demo.vercel.app/)
+- [Click for Demo Video](./assets/demo.mp4)
 
 ## Project Overview
 
